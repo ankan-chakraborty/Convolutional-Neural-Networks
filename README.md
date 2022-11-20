@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/static/v1?label=Language%20Used&message=Python&color=blue&logo=python&logoColor=white)<br>
+
 # Convolutional-Neural-Networks
 Convolutional Neural Network Based Deep Learning Model
 
